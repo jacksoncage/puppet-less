@@ -13,6 +13,18 @@ Module Description
 
 The less module allows Puppet to install less application.
 
+Install
+-------
+
+Run this code on your puppet node using the Puppet Module Tool:
+
+	puppet module install jacksoncage/less
+
+Clone from github:
+
+	cd /etc/puppet/modules/
+	git clone git://github.com/jacksoncage/puppet-less.git
+
 Setup
 -----
 
